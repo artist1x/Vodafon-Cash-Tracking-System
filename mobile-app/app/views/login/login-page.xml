@@ -1,0 +1,34 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
+    <ActionBar title="Login" />
+    
+    <StackLayout>
+        <Label text="Welcome Back" 
+               class="h2 text-center m-10" />
+        
+        <TextField hint="Username" 
+                  text="{{ username }}"
+                  class="input m-10"
+                  autocorrect="false"
+                  autocapitalizationType="none" />
+        
+        <TextField hint="Password" 
+                  text="{{ password }}"
+                  secure="true"
+                  class="input m-10" />
+        
+        <Button text="Login" 
+                tap="{{ onLogin }}"
+                class="btn btn-primary m-10" />
+
+        <ScrollView height="200" class="m-10">
+            <Label text="{{ logMessages }}"
+                   textWrap="true"
+                   style="background-color: #f0f0f0; padding: 10; font-size: 12;" />
+        </ScrollView>
+        
+        <Label text="{{ errorMessage }}"
+               textWrap="true"
+               style="color: red; text-align: center;" 
+               class="m-10" />
+    </StackLayout>
+</Page>

@@ -1,0 +1,29 @@
+[
+    {
+        "name": "@nativescript/core",
+        "directory": "../../node_modules/@nativescript/core",
+        "dependencies": []
+    },
+    {
+        "name": "@nativescript/secure-storage",
+        "directory": "../../node_modules/@nativescript/secure-storage",
+        "dependencies": []
+    },
+    {
+        "name": "@nativescript/theme",
+        "directory": "../../node_modules/@nativescript/theme",
+        "dependencies": []
+    },
+    {
+        "name": "@master.technology/permissions",
+        "directory": "../../node_modules/@master.technology/permissions",
+        "dependencies": []
+    },
+    {
+        "name": "nativescript-permissions",
+        "directory": "../../node_modules/nativescript-permissions",
+        "dependencies": [
+            "@master.technology/permissions"
+        ]
+    }
+]

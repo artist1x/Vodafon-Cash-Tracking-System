@@ -1,0 +1,12 @@
+{
+	"@nativescript/core": {
+		"/Users/t-box/Developer/Vodafone V2/mobile-app/node_modules/@nativescript/core/platforms/android/core.aar": "398718dd5be0b8e616fe2c5a979c9824681c57fe",
+		"/Users/t-box/Developer/Vodafone V2/mobile-app/node_modules/@nativescript/core/platforms/android/native-api-usage.json": "4a614afaa51061d74eba0cbe39100f47b0e2a10b",
+		"/Users/t-box/Developer/Vodafone V2/mobile-app/node_modules/@nativescript/core/platforms/android/res/values/ids.xml": "af407e752ae7884c6e064d1dc81008497d5ff0cc",
+		"/Users/t-box/Developer/Vodafone V2/mobile-app/node_modules/@nativescript/core/platforms/android/winter_cg-release.aar": "4a0eb72624c18b183c679831bea2ae0fbd1be1c8",
+		"/Users/t-box/Developer/Vodafone V2/mobile-app/node_modules/@nativescript/core/platforms/android/widgets-release.aar": "ad4d8c32ef0376cafd6c3eef5bd21198c069b092"
+	},
+	"@nativescript/secure-storage": {
+		"/Users/t-box/Developer/Vodafone V2/mobile-app/node_modules/@nativescript/secure-storage/platforms/android/include.gradle": "b2f8625f98afaa063a700e38433054494319e6b0"
+	}
+}

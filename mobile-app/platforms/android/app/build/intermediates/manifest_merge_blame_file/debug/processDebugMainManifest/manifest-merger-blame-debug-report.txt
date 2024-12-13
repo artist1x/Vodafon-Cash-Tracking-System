@@ -1,0 +1,129 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.nativescript.vodafonecashmonitor"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="34" />
+10
+11    <supports-screens
+11-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:5:5-9:39
+12        android:largeScreens="true"
+12-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:8:9-36
+13        android:normalScreens="true"
+13-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:7:9-37
+14        android:smallScreens="true"
+14-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:6:9-36
+15        android:xlargeScreens="true" />
+15-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:9:9-37
+16
+17    <uses-permission
+17-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:11:5-79
+18        android:name="android.permission.READ_EXTERNAL_STORAGE"
+18-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:11:22-77
+19        android:maxSdkVersion="28" />
+19-->[:widgets-release:] /Users/t-box/.gradle/caches/transforms-3/79ee2d2dd60ae6d6970d4e52398a9ef7/transformed/jetified-widgets-release/AndroidManifest.xml:11:9-35
+20    <uses-permission
+20-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:12:5-80
+21        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+21-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:12:22-78
+22        android:maxSdkVersion="28" />
+22-->[:widgets-release:] /Users/t-box/.gradle/caches/transforms-3/79ee2d2dd60ae6d6970d4e52398a9ef7/transformed/jetified-widgets-release/AndroidManifest.xml:14:9-35
+23    <uses-permission android:name="android.permission.INTERNET" />
+23-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:13:5-66
+23-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:13:22-64
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+24-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:14:5-78
+24-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:14:22-76
+25    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+25-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:15:5-69
+25-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:15:22-67
+26    <uses-permission android:name="android.permission.READ_SMS" />
+26-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:16:5-66
+26-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:16:22-64
+27    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+28
+29    <application
+29-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:18:5-44:19
+30        android:name="com.tns.NativeScriptApplication"
+30-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:19:9-55
+31        android:allowBackup="true"
+31-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:20:9-35
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.8.0] /Users/t-box/.gradle/caches/transforms-3/7672d33d753edbfd17a7ac324e08edf4/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:extractNativeLibs="false"
+35        android:hardwareAccelerated="true"
+35-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:24:9-43
+36        android:icon="@mipmap/ic_launcher"
+36-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:21:9-43
+37        android:label="@string/app_name"
+37-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:22:9-41
+38        android:theme="@style/AppTheme"
+38-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:23:9-40
+39        android:usesCleartextTraffic="true" >
+39-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:25:9-44
+40        <activity
+40-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:27:9-42:20
+41            android:name="com.tns.NativeScriptActivity"
+41-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:28:13-56
+42            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout|locale|uiMode"
+42-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:30:13-129
+43            android:exported="true"
+43-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:34:13-36
+44            android:hardwareAccelerated="true"
+44-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:32:13-47
+45            android:label="@string/title_activity_kimera"
+45-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:29:13-58
+46            android:launchMode="singleTask"
+46-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:33:13-44
+47            android:theme="@style/LaunchScreenTheme" >
+47-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:31:13-53
+48            <meta-data
+48-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:36:13-96
+49                android:name="SET_THEME_ON_LAUNCH"
+49-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:36:24-58
+50                android:resource="@style/AppTheme" />
+50-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:36:59-93
+51
+52            <intent-filter>
+52-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:38:13-41:29
+53                <action android:name="android.intent.action.MAIN" />
+53-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:39:17-69
+53-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:39:25-66
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:40:17-77
+55-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:40:27-74
+56            </intent-filter>
+57        </activity>
+58        <activity android:name="com.tns.ErrorReportActivity" />
+58-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:43:9-63
+58-->/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/AndroidManifest.xml:43:19-61
+59
+60        <provider
+60-->[androidx.emoji2:emoji2:1.2.0] /Users/t-box/.gradle/caches/transforms-3/c8482bc2fc833122a323859a7b47a5a1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+61            android:name="androidx.startup.InitializationProvider"
+61-->[androidx.emoji2:emoji2:1.2.0] /Users/t-box/.gradle/caches/transforms-3/c8482bc2fc833122a323859a7b47a5a1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+62            android:authorities="org.nativescript.vodafonecashmonitor.androidx-startup"
+62-->[androidx.emoji2:emoji2:1.2.0] /Users/t-box/.gradle/caches/transforms-3/c8482bc2fc833122a323859a7b47a5a1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+63            android:exported="false" >
+63-->[androidx.emoji2:emoji2:1.2.0] /Users/t-box/.gradle/caches/transforms-3/c8482bc2fc833122a323859a7b47a5a1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+64            <meta-data
+64-->[androidx.emoji2:emoji2:1.2.0] /Users/t-box/.gradle/caches/transforms-3/c8482bc2fc833122a323859a7b47a5a1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+65                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+65-->[androidx.emoji2:emoji2:1.2.0] /Users/t-box/.gradle/caches/transforms-3/c8482bc2fc833122a323859a7b47a5a1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+66                android:value="androidx.startup" />
+66-->[androidx.emoji2:emoji2:1.2.0] /Users/t-box/.gradle/caches/transforms-3/c8482bc2fc833122a323859a7b47a5a1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+67            <meta-data
+67-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/t-box/.gradle/caches/transforms-3/6e3cf5a70fcc1979b98a5739a1f0fd6d/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+68                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+68-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/t-box/.gradle/caches/transforms-3/6e3cf5a70fcc1979b98a5739a1f0fd6d/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+69                android:value="androidx.startup" />
+69-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/t-box/.gradle/caches/transforms-3/6e3cf5a70fcc1979b98a5739a1f0fd6d/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+70        </provider>
+71    </application>
+72
+73</manifest>

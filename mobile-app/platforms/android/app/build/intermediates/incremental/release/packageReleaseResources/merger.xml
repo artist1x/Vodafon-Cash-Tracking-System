@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res"><file name="ic_launcher" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/values-v21/colors.xml" qualifiers="v21"/><file path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/values-v21/styles.xml" qualifiers="v21"><style name="AppThemeBase21" parent="AppThemeBase">
+        
+        
+
+        <item name="android:datePickerStyle">@style/SpinnerDatePicker</item>
+        <item name="android:timePickerStyle">@style/SpinnerTimePicker</item>
+    </style><style name="AppTheme" parent="AppThemeBase21">
+    </style><style name="SpinnerDatePicker" parent="android:Widget.Material.Light.DatePicker">
+        
+        <item name="android:datePickerMode">spinner</item>
+    </style><style name="SpinnerTimePicker" parent="android:Widget.Material.Light.TimePicker">
+        
+        <item name="android:timePickerMode">spinner</item>
+    </style><style name="NativeScriptToolbarStyle" parent="NativeScriptToolbarStyleBase">
+        <item name="android:elevation">4dp</item>
+
+        
+        
+    </style></file><file path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/values-v29/styles.xml" qualifiers="v29"><style name="AppThemeBase29" parent="AppThemeBase21">
+
+        
+        <item name="android:forceDarkAllowed">false</item>
+    </style><style name="AppTheme" parent="AppThemeBase29">
+    </style></file><file name="ic_launcher" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/drawable/ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/values/colors.xml" qualifiers=""><color name="ns_primary">#F5F5F5</color><color name="ns_primaryDark">#757575</color><color name="ns_accent">#65ADF1</color></file><file path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/values/styles.xml" qualifiers=""><style name="LaunchScreenThemeBase" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="toolbarStyle">@style/NativeScriptToolbarStyle</item>
+
+        <item name="colorPrimary">@color/ns_primary</item>
+        <item name="colorPrimaryDark">@color/ns_primaryDark</item>
+        <item name="colorAccent">@color/ns_accent</item>
+
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style><style name="LaunchScreenTheme" parent="LaunchScreenThemeBase">
+    </style><style name="AppThemeBase" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="toolbarStyle">@style/NativeScriptToolbarStyle</item>
+
+        <item name="colorPrimary">@color/ns_primary</item>
+        <item name="colorPrimaryDark">@color/ns_primaryDark</item>
+        <item name="colorAccent">@color/ns_accent</item>
+    </style><style name="AppTheme" parent="AppThemeBase">
+    </style><style name="NativeScriptToolbarStyleBase" parent="Widget.AppCompat.Toolbar">
+        <item name="android:background">@color/ns_primary</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.ActionBar</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat</item>
+    </style><style name="NativeScriptToolbarStyle" parent="NativeScriptToolbarStyleBase">
+    </style></file><file path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/values/errorstyles.xml" qualifiers=""><style name="NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style></file><file path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">mobileapp</string><string name="title_activity_kimera">mobileapp</string></file><file path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/values/ic_launcher_background.xml" qualifiers=""><color name="ic_launcher_background">#FFFFFF</color></file><file name="background" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/drawable-xhdpi/background.png" qualifiers="xhdpi-v4" type="drawable"/><file name="logo" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/drawable-xhdpi/logo.png" qualifiers="xhdpi-v4" type="drawable"/><file name="background" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/drawable-xxhdpi/background.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="logo" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/drawable-xxhdpi/logo.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="splash_screen" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/drawable-nodpi/splash_screen.xml" qualifiers="nodpi-v4" type="drawable"/><file name="background" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/drawable-hdpi/background.png" qualifiers="hdpi-v4" type="drawable"/><file name="logo" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/drawable-hdpi/logo.png" qualifiers="hdpi-v4" type="drawable"/><file name="background" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/drawable-ldpi/background.png" qualifiers="ldpi-v4" type="drawable"/><file name="logo" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/drawable-ldpi/logo.png" qualifiers="ldpi-v4" type="drawable"/><file name="background" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/drawable-mdpi/background.png" qualifiers="mdpi-v4" type="drawable"/><file name="logo" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/drawable-mdpi/logo.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="background" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/drawable-xxxhdpi/background.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="logo" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/drawable-xxxhdpi/logo.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="release$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/release/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="release" generated-set="release$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/release/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/build/generated/res/resValues/release"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/build/generated/res/resValues/release"/></dataSet><mergedItems/></merger>

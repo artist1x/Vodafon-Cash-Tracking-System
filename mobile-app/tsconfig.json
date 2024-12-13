@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "declaration": false,
+    "removeComments": false,
+    "noLib": false,
+    "skipLibCheck": true,
+    "strict": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "sourceMap": true,
+    "types": ["node"],
+    "lib": ["es2017", "dom"],
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["app/*"]
+    }
+  },
+  "include": ["app/**/*", "types/**/*"],
+  "exclude": ["node_modules", "platforms"]
+}

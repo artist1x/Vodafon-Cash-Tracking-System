@@ -1,0 +1,50 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo" class="page">
+    <ActionBar title="{{ pageTitle }}" class="action-bar">
+        <ActionItem tap="{{ onLogout }}" ios.position="right" android.position="actionBar">
+            <Label text="Logout" class="action-item" />
+        </ActionItem>
+    </ActionBar>
+
+    <ScrollView>
+        <StackLayout class="p-4">
+            <!-- Date Range Filter -->
+            <SegmentedBar selectedIndex="{{ selectedDateRangeIndex }}" class="mb-4">
+                <SegmentedBar.items>
+                    <SegmentedBarItem title="Today" />
+                    <SegmentedBarItem title="Week" />
+                    <SegmentedBarItem title="Month" />
+                </SegmentedBar.items>
+            </SegmentedBar>
+
+            <!-- Transaction Summary -->
+            <GridLayout rows="auto" columns="*, *, *" class="mb-4">
+                <StackLayout col="0" class="text-center p-2">
+                    <Label text="{{ todayTransactions }}" class="text-2xl font-bold" />
+                    <Label text="Today" class="text-sm text-gray-600" />
+                </StackLayout>
+                <StackLayout col="1" class="text-center p-2">
+                    <Label text="{{ weekTransactions }}" class="text-2xl font-bold" />
+                    <Label text="This Week" class="text-sm text-gray-600" />
+                </StackLayout>
+                <StackLayout col="2" class="text-center p-2">
+                    <Label text="{{ monthTransactions }}" class="text-2xl font-bold" />
+                    <Label text="This Month" class="text-sm text-gray-600" />
+                </StackLayout>
+            </GridLayout>
+
+            <!-- Recent Transactions -->
+            <Label text="Recent Transactions" class="text-xl font-bold mb-2" />
+            <ListView items="{{ recentTransactions }}" class="list-group" height="300">
+                <ListView.itemTemplate>
+                    <GridLayout columns="*, auto" class="list-group-item p-2">
+                        <StackLayout col="0">
+                            <Label text="{{ type }}" class="font-bold" />
+                            <Label text="{{ amount }}" class="text-gray-600" />
+                        </StackLayout>
+                        <Label col="1" text="{{ timestamp }}" class="text-sm text-gray-500" />
+                    </GridLayout>
+                </ListView.itemTemplate>
+            </ListView>
+        </StackLayout>
+    </ScrollView>
+</Page>

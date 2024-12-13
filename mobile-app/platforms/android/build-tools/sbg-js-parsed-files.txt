@@ -1,0 +1,4 @@
+/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/assets/app/runtime.js
+/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/assets/app/bundle.js
+/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/assets/app/vendor.js
+/Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/assets/app/tns_modules/inspector_modules.js

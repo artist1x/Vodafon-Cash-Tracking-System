@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/drawable-nodpi_splash_screen.xml.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/drawable-nodpi/splash_screen.xml"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/drawable-ldpi_logo.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/drawable-ldpi_background.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/drawable-xxxhdpi_background.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/drawable-xxxhdpi/background.png"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/layout_exception_tab.xml.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-debug-30:/layout/exception_tab.xml"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/layout_error_activity.xml.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-debug-30:/layout/error_activity.xml"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/layout_logcat_tab.xml.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-debug-30:/layout/logcat_tab.xml"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/drawable-xhdpi_background.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/drawable_button_accented.xml.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-debug-30:/drawable/button_accented.xml"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/drawable-xxhdpi_background.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/drawable-xxhdpi/background.png"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/drawable-hdpi_logo.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/drawable-xxxhdpi_logo.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/drawable-xhdpi_logo.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/drawable-mdpi_logo.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/drawable-xxhdpi_logo.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/drawable_button.xml.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-debug-30:/drawable/button.xml"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/drawable-mdpi_background.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/drawable-hdpi_background.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "org.nativescript.vodafonecashmonitor.app-debug-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "org.nativescript.vodafonecashmonitor.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

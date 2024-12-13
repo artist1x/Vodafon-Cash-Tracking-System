@@ -1,0 +1,27 @@
+org.nativescript.vodafonecashmonitor.app-jetified-core-0 /Users/t-box/.gradle/caches/transforms-3/0a55070b0a9045544945f65595d96fcc/transformed/jetified-core/res
+org.nativescript.vodafonecashmonitor.app-transition-1.4.1-1 /Users/t-box/.gradle/caches/transforms-3/11297b7c800c1060f013af8e823505d4/transformed/transition-1.4.1/res
+org.nativescript.vodafonecashmonitor.app-fragment-1.5.7-2 /Users/t-box/.gradle/caches/transforms-3/18f98d0dd4a64378d846e29cd293bee3/transformed/fragment-1.5.7/res
+org.nativescript.vodafonecashmonitor.app-jetified-startup-runtime-1.1.1-3 /Users/t-box/.gradle/caches/transforms-3/1df08eb8d0b7c877f74fc7c7bd47abe7/transformed/jetified-startup-runtime-1.1.1/res
+org.nativescript.vodafonecashmonitor.app-lifecycle-livedata-core-2.5.1-4 /Users/t-box/.gradle/caches/transforms-3/37471bae0a4cc5b6041e1f8bfa341ab4/transformed/lifecycle-livedata-core-2.5.1/res
+org.nativescript.vodafonecashmonitor.app-jetified-annotation-experimental-1.1.0-5 /Users/t-box/.gradle/caches/transforms-3/4732c56d6d377528e36fdc18f96f9939/transformed/jetified-annotation-experimental-1.1.0/res
+org.nativescript.vodafonecashmonitor.app-recyclerview-1.1.0-6 /Users/t-box/.gradle/caches/transforms-3/4752aedfcc4a36b75a4bdc65479f06be/transformed/recyclerview-1.1.0/res
+org.nativescript.vodafonecashmonitor.app-jetified-viewpager2-1.0.0-7 /Users/t-box/.gradle/caches/transforms-3/4d33ce902b38f171da82b0b4cfe8084d/transformed/jetified-viewpager2-1.0.0/res
+org.nativescript.vodafonecashmonitor.app-jetified-lifecycle-process-2.4.1-8 /Users/t-box/.gradle/caches/transforms-3/6e3cf5a70fcc1979b98a5739a1f0fd6d/transformed/jetified-lifecycle-process-2.4.1/res
+org.nativescript.vodafonecashmonitor.app-jetified-savedstate-1.2.0-9 /Users/t-box/.gradle/caches/transforms-3/6f624c2748055c49fe02a78c7388ba7b/transformed/jetified-savedstate-1.2.0/res
+org.nativescript.vodafonecashmonitor.app-core-1.8.0-10 /Users/t-box/.gradle/caches/transforms-3/7672d33d753edbfd17a7ac324e08edf4/transformed/core-1.8.0/res
+org.nativescript.vodafonecashmonitor.app-jetified-core-ktx-1.8.0-11 /Users/t-box/.gradle/caches/transforms-3/7c6a72ddfb5350512f9de88b080a89e7/transformed/jetified-core-ktx-1.8.0/res
+org.nativescript.vodafonecashmonitor.app-lifecycle-runtime-2.5.1-12 /Users/t-box/.gradle/caches/transforms-3/9a34f76deda5e794e4c11f5c27e0a354/transformed/lifecycle-runtime-2.5.1/res
+org.nativescript.vodafonecashmonitor.app-jetified-activity-1.5.1-13 /Users/t-box/.gradle/caches/transforms-3/a44d1864cf24545d3aba8716251f113e/transformed/jetified-activity-1.5.1/res
+org.nativescript.vodafonecashmonitor.app-jetified-appcompat-resources-1.5.1-14 /Users/t-box/.gradle/caches/transforms-3/a9382cd6c24c98b14ed9ca584cd8e7ea/transformed/jetified-appcompat-resources-1.5.1/res
+org.nativescript.vodafonecashmonitor.app-appcompat-1.5.1-15 /Users/t-box/.gradle/caches/transforms-3/b388342c6649a74854b96245825cc094/transformed/appcompat-1.5.1/res
+org.nativescript.vodafonecashmonitor.app-lifecycle-viewmodel-2.5.1-16 /Users/t-box/.gradle/caches/transforms-3/b61bb8fd5360a4e401ec827b14e8f744/transformed/lifecycle-viewmodel-2.5.1/res
+org.nativescript.vodafonecashmonitor.app-jetified-emoji2-views-helper-1.2.0-17 /Users/t-box/.gradle/caches/transforms-3/b9bae20aad8527b9628ef658ed46fa8f/transformed/jetified-emoji2-views-helper-1.2.0/res
+org.nativescript.vodafonecashmonitor.app-jetified-emoji2-1.2.0-18 /Users/t-box/.gradle/caches/transforms-3/c8482bc2fc833122a323859a7b47a5a1/transformed/jetified-emoji2-1.2.0/res
+org.nativescript.vodafonecashmonitor.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-19 /Users/t-box/.gradle/caches/transforms-3/e943d2ada00d5cab1bf6d4780008b91f/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/res
+org.nativescript.vodafonecashmonitor.app-pngs-20 /Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/build/generated/res/pngs/release
+org.nativescript.vodafonecashmonitor.app-resValues-21 /Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/build/generated/res/resValues/release
+org.nativescript.vodafonecashmonitor.app-packageReleaseResources-22 /Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+org.nativescript.vodafonecashmonitor.app-packageReleaseResources-23 /Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+org.nativescript.vodafonecashmonitor.app-release-24 /Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/build/intermediates/merged_res/release/mergeReleaseResources
+org.nativescript.vodafonecashmonitor.app-main-25 /Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/main/res
+org.nativescript.vodafonecashmonitor.app-release-26 /Users/t-box/Developer/Vodafone V2/mobile-app/platforms/android/app/src/release/res

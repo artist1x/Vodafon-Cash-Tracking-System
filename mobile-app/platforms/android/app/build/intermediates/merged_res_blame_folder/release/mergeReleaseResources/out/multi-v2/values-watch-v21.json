@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.nativescript.vodafonecashmonitor.app-mergeReleaseResources-22:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/t-box/.gradle/caches/transforms-3/b388342c6649a74854b96245825cc094/transformed/appcompat-1.5.1/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
